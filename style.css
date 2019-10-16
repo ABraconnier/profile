@@ -122,4 +122,8 @@ h2 {
   .container {
     width: 300px;
   }
+
+  h1 {
+    font-size: 40px;
+  }
 }
